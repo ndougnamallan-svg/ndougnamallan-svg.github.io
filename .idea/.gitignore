@@ -1,0 +1,8 @@
+# Default ignored files
+/../../Portfolio.web.Infrastructure /.idea/shelf/
+/../../Portfolio.web.Infrastructure /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../Portfolio.web.Infrastructure /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../Portfolio.web.Infrastructure /.idea/dataSources/
+/../../Portfolio.web.Infrastructure /.idea/dataSources.local.xml
